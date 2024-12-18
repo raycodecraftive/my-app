@@ -1,17 +1,1 @@
-# myapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# myapp
+This is the front-end of an ongoing project for an e-commerce client, developed using Flutter. The project will be integrated with backend frameworks, including Prisma for ORM, NestJS for the server-side architecture, and PostgreSQL as the database."
